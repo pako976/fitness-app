@@ -1,25 +1,19 @@
-image:
-  file: .gitpod.Dockerfile
+FROM gitpod/workspace-full
 
-tasks:
-  - name: Setup Flutter e backend
-    init: |
-      git config --global user.name "Pako976"
-      git config --global user.email "salvatorevitale976@gmail.com"
-      echo "Ambiente Gitpod pronto!"
-    command: |
-      cd frontend
-      flutter --version
-      cd ../backend
-      node --version
-      echo "Frontend e backend pronti in cloud!"
+# Installare dipendenze necessarie per Flutter
+RUN sudo apt-get update && sudo apt-get install -y curl unzip xz-utils libglu1-mesa
 
-ports:
-  - port: 8080
-    onOpen: open-preview
-  - port: 3000
-    onOpen: open-preview
+# Clonare Flutter SDK nella cartella home di Gitpod
+RUN git clone https://github.com/flutter/flutter.git -b stable /home/gitpod/flutter
 
-vscode:
-  extensions:
-    - dart-code.flutter
+# Aggiungere Flutter e Dart alla variabile PATH
+ENV PATH="/home/gitpod/flutter/bin:/home/gitpod/flutter/bin/cache/dart-sdk/bin:${PATH}"
+
+# Abilitare Flutter Web
+RUN flutter config --enable-web
+
+# Precache Flutter SDK per performance migliori
+RUN flutter precache
+
+# Controllare versione Flutter per verifica
+RUN flutter --version
