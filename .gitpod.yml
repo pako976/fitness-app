@@ -4,8 +4,8 @@ image:
 tasks:
   - name: Update and setup
     init: |
-      git config --global user.name "YOUR_NAME"
-      git config --global user.email "YOUR_EMAIL"
+      git config --global user.name "pako976"
+      git config --global user.email "salvatorevitale976@gmail.com"
       echo "Ambiente Gitpod pronto!"
     command: |
       cd frontend
@@ -13,12 +13,15 @@ tasks:
       cd ../backend
       node --version
       echo "Frontend e backend pronti in cloud!"
+
 ports:
   - port: 8080
     onOpen: open-preview
   - port: 3000
     onOpen: open-preview
+
 vscode:
   extensions:
     - dart-code.flutter
-    - ms-vscode.vscode-node-azure-pack
+    - esbenp.prettier-vscode
+    - bradlc.vscode-tailwindcss
