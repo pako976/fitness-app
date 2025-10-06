@@ -1,2 +1,25 @@
+image:
+  file: .gitpod.Dockerfile
+
 tasks:
-  - command: echo "Workspace base pronto!"
+  - name: Setup Flutter e backend
+    init: |
+      git config --global user.name "pako976"
+      git config --global user.email "salvatorevitale976@gmail.com"
+      echo "Ambiente Gitpod pronto!"
+    command: |
+      cd frontend || exit 0
+      flutter --version
+      cd ../backend || exit 0
+      node --version
+      echo "Frontend e backend pronti in cloud!"
+
+ports:
+  - port: 8080
+    onOpen: open-preview
+  - port: 3000
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - dart-code.flutter
