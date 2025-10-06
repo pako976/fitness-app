@@ -2,9 +2,9 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - name: Update and setup
+  - name: Setup Flutter e backend
     init: |
-      git config --global user.name "pako976"
+      git config --global user.name "Pako976"
       git config --global user.email "salvatorevitale976@gmail.com"
       echo "Ambiente Gitpod pronto!"
     command: |
@@ -23,5 +23,3 @@ ports:
 vscode:
   extensions:
     - dart-code.flutter
-    - esbenp.prettier-vscode
-    - bradlc.vscode-tailwindcss
