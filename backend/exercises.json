@@ -1,1 +1,400 @@
-{}
+{
+  "exercises": [
+    {
+      "name": "Jumping Jacks",
+      "category": "Cardio",
+      "prompt_male": "Realistic muscular male fitness trainer performing energetic Jumping Jacks outdoors, with fluid, engaging movements. The trainer simulates slight breathlessness during intense phases, motivating the user.",
+      "prompt_female": "Realistic athletic female fitness coach demonstrating fluid and engaging Jumping Jacks outdoors, with a sensual yet motivating tone. She mimics fatigue during high-intensity moments to inspire authenticity.",
+      "description": "Full body warm-up exercise, no equipment."
+    },
+    {
+      "name": "Mountain Climbers",
+      "category": "Cardio",
+      "prompt_male": "Muscular male avatar performing fast-paced Mountain Climbers at home, exhibiting fluid, energetic motion and subtle signs of exertion.",
+      "prompt_female": "Athletic female fitness model executing Mountain Climbers with smooth, quick movements and realistic breathing cues to engage the user.",
+      "description": "High-intensity cardio exercise, no equipment."
+    },
+    {
+      "name": "Burpees",
+      "category": "Cardio",
+      "prompt_male": "Animated muscular male trainer performing full-body burpees outdoors, emphasizing explosive jumps and controlled landings, displaying effort and motivation.",
+      "prompt_female": "Realistic athletic female avatar demonstrating burpees with fluid, dynamic motion and motivational vocal tone, mimicking exertion.",
+      "description": "Full body explosive cardio workout."
+    },
+    {
+      "name": "High Knees",
+      "category": "Cardio",
+      "prompt_male": "Muscular male coach performing running in place with high knees, showing vigorous, engaging motion and slight breathlessness.",
+      "prompt_female": "Athletic female fitness avatar running in place with high knees, smoothly encouraging the user with a motivating and slightly sensual voice.",
+      "description": "Cardio exercise focusing on knee drive."
+    },
+    {
+      "name": "Skaters",
+      "category": "Cardio",
+      "prompt_male": "Realistic muscular male demonstrating lateral Skaters with quick, sharp movements and slight fatigue during repetitions.",
+      "prompt_female": "Athletic female fitness model performing side-to-side Skaters with rhythm and fluidity, expressing exertion and motivation.",
+      "description": "Agility and cardio side jumps, no equipment."
+    },
+    {
+      "name": "Butt Kicks",
+      "category": "Cardio",
+      "prompt_male": "Animated male fitness coach jogging in place with Butt Kicks, energetic and showing controlled breathing during high pace moments.",
+      "prompt_female": "Realistic female avatar jogging on spot with Butt Kicks, voice sultry and engaging, mimicking effort for realism.",
+      "description": "Cardio move kicking heels to glutes."
+    },
+    {
+      "name": "Jump Squats",
+      "category": "Cardio",
+      "prompt_male": "Muscular male avatar performing Jump Squats with explosive jumps and realistic recovery breathing.",
+      "prompt_female": "Athletic female demonstrating Jump Squats with fluid and motivating movements, simulating fatigue and effort.",
+      "description": "Explosive plyometric exercise for legs."
+    },
+    {
+      "name": "Running sul posto",
+      "category": "Cardio",
+      "prompt_male": "Realistic male coach running in place at high pace, with engaged posture and subtle breathing sounds.",
+      "prompt_female": "Athletic female avatar running in place, encouraging user with lively and sultry voice, showing exertion.",
+      "description": "High-paced running on spot for cardio."
+    },
+    {
+      "name": "Salti laterali",
+      "category": "Cardio",
+      "prompt_male": "Muscular male avatar executing lateral jumps with agility and smooth landing, showing signs of effort.",
+      "prompt_female": "Female fitness model performing side jumps with control and grace, vocal tone motivating and realistic.",
+      "description": "Lateral jumping for agility without equipment."
+    },
+    {
+      "name": "Corsa a piedi uniti",
+      "category": "Cardio",
+      "prompt_male": "Muscular male trainer running in place with feet together, energetic pace and realistic breath control.",
+      "prompt_female": "Athletic female avatar running in place feet together, fluid and motivating voice, showing effort.",
+      "description": "High-intensity cardio movement."
+    },
+    {
+      "name": "Squat a corpo libero",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Muscular male avatar doing deep bodyweight squats, with controlled, fluid motion and slight signs of effort, maintaining eye contact with the user to motivate.",
+      "prompt_female": "Athletic female performing proper form squats, with a sensuous tone, emphasizing controlled breathing and moments of exertion for realism.",
+      "description": "Strengthening legs and glutes without equipment."
+    },
+    {
+      "name": "Affondi in camminata",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Realistic male coach demonstrating walking lunges with proper knee alignment and core engagement, outdoor park setting, slight fatigue simulation.",
+      "prompt_female": "Athletic female avatar performing walking lunges, fluid and encouraging voice, with signs of exertion to engage users.",
+      "description": "Lunges for legs and glutes outdoors."
+    },
+    {
+      "name": "Ponte per glutei",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Muscular male trainer doing glute bridges lying on back, lifting hips high with smooth, controlled motion and breathing cues.",
+      "prompt_female": "Athletic female fitness coach performing glute bridges with graceful, motivating voice and effort signs.",
+      "description": "Glute strengthening bridge exercise."
+    },
+    {
+      "name": "Wall Sit (seduta al muro)",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Realistic muscular male holding wall sit position with steady breathing and engaged muscles, indoor gym background.",
+      "prompt_female": "Athletic female avatar maintaining wall sit, voice motivating and sensual, simulating muscle tension and breathing.",
+      "description": "Isometric squat hold for leg strength."
+    },
+    {
+      "name": "Step-up su gradino (a corpo libero)",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Muscular male coach demonstrating step-ups on outdoor step, slow and controlled, with breath control cues.",
+      "prompt_female": "Athletic female performing step-ups smoothly with encouraging voice and simulated exertion.",
+      "description": "Leg strengthening step exercise."
+    },
+    {
+      "name": "Calf Raises (sollevamento polpacci)",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Realistic male avatar doing calf raises, slow controlled lifts and breathing, indoor home gym.",
+      "prompt_female": "Athletic female coach performing calf raises, voice fluid and motivating, showing effort.",
+      "description": "Calf muscle strengthening."
+    },
+    {
+      "name": "Squat sumo",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Muscular male trainer performing sumo squats with wide stance, deep bend and controlled breathing.",
+      "prompt_female": "Athletic female performing sumo squats, sensual and engaging voice, emphasizing form and breathing.",
+      "description": "Wide stance squat targeting inner thighs."
+    },
+    {
+      "name": "Affondi posteriori",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Realistic male avatar doing reverse lunges with slow, controlled steps and slight signs of exertion.",
+      "prompt_female": "Athletic female fitness model demonstrating reverse lunges, fluid motion, motivational tone with authenticity.",
+      "description": "Backward lunges for lower body strength."
+    },
+    {
+      "name": "Squat a pistola assistiti",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Muscular male avatar performing assisted pistol squats using a chair, controlled movement and breathing.",
+      "prompt_female": "Athletic female trainer doing assisted pistol squats, graceful and motivating voice, showing physical effort.",
+      "description": "Single leg squat with balance support."
+    },
+    {
+      "name": "Side leg raises (sollevamento laterale gambe)",
+      "category": "Forza gambe e glutei",
+      "prompt_male": "Realistic male coach lying on side lifting leg slowly with control and breathing emphasis.",
+      "prompt_female": "Athletic female avatar performing side leg raises with smooth flow and engaging vocal cues.",
+      "description": "Outer thigh strengthening leg raise."
+    },
+    {
+      "name": "Push-up classici",
+      "category": "Forza parte superiore",
+      "prompt_male": "Virtual coach performing classic push-ups, straight body line, hands shoulder-width apart, indoor gym background with effort simulation.",
+      "prompt_female": "Athletic female avatar performing classic push-ups with sensual yet strong voice, showing exertion realistically.",
+      "description": "Standard push-ups for upper body strength."
+    },
+    {
+      "name": "Push-up modificati su ginocchia",
+      "category": "Forza parte superiore",
+      "prompt_male": "Muscular male avatar showing knee push-ups, core tight, controlled movement and breathing contrast.",
+      "prompt_female": "Athletic female performing modified push-ups on knees, with motivational tone and slight fatigue cues.",
+      "description": "Easier push-up variation for beginners."
+    },
+    {
+      "name": "Dips su sedia (senza attrezzi)",
+      "category": "Forza parte superiore",
+      "prompt_male": "Realistic male trainer doing tricep dips on chair, slow controlled movement, breathing regulated.",
+      "prompt_female": "Athletic female demonstrating chair dips with grace and vocal encouragement, showing muscle tension.",
+      "description": "Triceps strengthening exercise."
+    },
+    {
+      "name": "Plank to Push-up",
+      "category": "Forza parte superiore",
+      "prompt_male": "Muscular male transitioning from plank to push-up with controlled motion and realistic effort sounds.",
+      "prompt_female": "Athletic female fitness model performing plank to push-up with engaging voice and effort cues.",
+      "description": "Dynamic upper body strength movement."
+    },
+    {
+      "name": "Shoulder taps (tocchi spalla in plank)",
+      "category": "Forza parte superiore",
+      "prompt_male": "Virtual coach in plank position doing alternating shoulder taps, stable core, breathing regulated.",
+      "prompt_female": "Athletic female doing shoulder taps in plank position, motivating and realistic exertion vocalization.",
+      "description": "Core stability and shoulder strength."
+    },
+    {
+      "name": "Arm Circles (rotazioni braccia)",
+      "category": "Forza parte superiore",
+      "prompt_male": "Muscular male performing slow arm circles forwards and backwards, indoor gym setting.",
+      "prompt_female": "Athletic female demonstrating arm circles with smooth motion and encouraging voice.",
+      "description": "Shoulder mobility and warm-up exercise."
+    },
+    {
+      "name": "Superman (per schiena)",
+      "category": "Forza parte superiore",
+      "prompt_male": "Realistic male avatar lying on stomach lifting arms and legs simultaneously, controlled breathing and effort shown.",
+      "prompt_female": "Athletic female trainer performing superman exercise with fluid motion and motivating tone.",
+      "description": "Lower back strengthening exercise."
+    },
+    {
+      "name": "Reverse Plank",
+      "category": "Forza parte superiore",
+      "prompt_male": "Muscular male holding reverse plank, steady breath and muscle engagement.",
+      "prompt_female": "Athletic female avatar in reverse plank, sensual motivating voice, showing slight effort.",
+      "description": "Core and back strengthening isometric hold."
+    },
+    {
+      "name": "Side plank laterale",
+      "category": "Forza parte superiore",
+      "prompt_male": "Realistic male avatar holding side plank on forearm, body straight, controlled breathing.",
+      "prompt_female": "Athletic female in side plank pose, motivating voice with realistic signs of exertion.",
+      "description": "Core stability and oblique strength."
+    },
+    {
+      "name": "Wall push-up",
+      "category": "Forza parte superiore",
+      "prompt_male": "Muscular male performing push-ups against wall, controlled pace and breathing.",
+      "prompt_female": "Athletic female avatar doing incline wall push-ups, encouraging voice with effort simulation.",
+      "description": "Easier push-up variation for beginners."
+    },
+    {
+      "name": "Plank statico",
+      "category": "Core",
+      "prompt_male": "Muscular male avatar holding static plank on forearms, body straight and tight, breathing steady and natural.",
+      "prompt_female": "Athletic female performing static plank with engaging and motivating tone, slight effort cues.",
+      "description": "Core strength isometric hold."
+    },
+    {
+      "name": "Crunch addominali base",
+      "category": "Core",
+      "prompt_male": "Realistic male coach performing slow, controlled basic crunches, breathing synchronized with movement.",
+      "prompt_female": "Athletic female avatar doing crunches with fluid motion and sultry yet strong vocal encouragement.",
+      "description": "Basic abdominal strengthening."
+    },
+    {
+      "name": "Russian Twists",
+      "category": "Core",
+      "prompt_male": "Muscular male performing seated Russian twists with steady pace and controlled breathing.",
+      "prompt_female": "Athletic female avatar executing Russian twists smoothly with motivating and sensual voice tone.",
+      "description": "Oblique muscle strengthening exercise."
+    },
+    {
+      "name": "Leg Raises (sollevamento gambe)",
+      "category": "Core",
+      "prompt_male": "Realistic male avatar performing slow leg raises lying down, focus on lower abs, breath control emphasized.",
+      "prompt_female": "Athletic female doing leg raises with fluid motion and motivating vocal cues.",
+      "description": "Lower abdominal strengthening."
+    },
+    {
+      "name": "Bicycle Crunches",
+      "category": "Core",
+      "prompt_male": "Muscular male performing bicycle crunches with controlled breathing and steady pace.",
+      "prompt_female": "Athletic female executing bicycle crunches smoothly with energetic, motivating voice.",
+      "description": "Core and oblique strengthening."
+    },
+    {
+      "name": "V-ups",
+      "category": "Core",
+      "prompt_male": "Realistic male trainer performing V-ups slowly, engaging core and breathing carefully.",
+      "prompt_female": "Athletic female performing V-ups with smooth controlled motion and encouraging tone.",
+      "description": "Advanced core strengthening exercise."
+    },
+    {
+      "name": "Heel Touches",
+      "category": "Core",
+      "prompt_male": "Muscular male doing heel touches lying on back, rhythmic pace, breathing synchronized.",
+      "prompt_female": "Athletic female performing heel touches with fluid motion and motivational voice.",
+      "description": "Oblique and core toning exercise."
+    },
+    {
+      "name": "Mountain climbers",
+      "category": "Core/Cardio",
+      "prompt_male": "Fast-paced muscular male performing mountain climbers with fluid motion and breath control.",
+      "prompt_female": "Athletic female avatar doing mountain climbers energetically with realistic exertion sounds.",
+      "description": "Dynamic core and cardio combo move."
+    },
+    {
+      "name": "Side plank con torsione",
+      "category": "Core",
+      "prompt_male": "Realistic male avatar holding side plank adding torso twist, controlled breathing and effort.",
+      "prompt_female": "Athletic female in side plank with torso twist, sensual voice and motivating effort cues.",
+      "description": "Core stability with rotational movement."
+    },
+    {
+      "name": "Hollow body hold",
+      "category": "Core",
+      "prompt_male": "Muscular male holding hollow body position with steady breath and muscle tension.",
+      "prompt_female": "Athletic female avatar holding hollow body hold with smooth vocal encouragement and effort.",
+      "description": "Advanced core isometric hold."
+    },
+    {
+      "name": "Cat-Cow Stretch",
+      "category": "Mobilità",
+      "prompt_male": "Animated male fitness model performing Cat-Cow stretch with fluid slow movements on yoga mat.",
+      "prompt_female": "Athletic female demonstrating Cat-Cow stretch with soft, motivating voice and smooth motion.",
+      "description": "Spinal mobility yoga stretch."
+    },
+    {
+      "name": "Child's Pose",
+      "category": "Mobilità",
+      "prompt_male": "Realistic male avatar demonstrating Child's Pose stretch, relaxing muscles and steady breath.",
+      "prompt_female": "Athletic female performing Child's Pose with soothing voice and gentle motion.",
+      "description": "Relaxing back and hip stretch."
+    },
+    {
+      "name": "Downward Dog",
+      "category": "Mobilità",
+      "prompt_male": "Muscular male avatar holding Downward Dog yoga pose with steady breathing.",
+      "prompt_female": "Athletic female avatar in Downward Dog pose, motivating with calm voice.",
+      "description": "Full body stretch and shoulder mobility."
+    },
+    {
+      "name": "Hip Circles",
+      "category": "Mobilità",
+      "prompt_male": "Realistic male trainer performing hip circles with fluid, controlled movements outdoor.",
+      "prompt_female": "Athletic female avatar doing slow hip circles with smooth vocal encouragement.",
+      "description": "Hip joint mobility exercise."
+    },
+    {
+      "name": "Shoulder Stretch",
+      "category": "Mobilità",
+      "prompt_male": "Muscular male showing shoulder stretch across chest with steady breath control.",
+      "prompt_female": "Athletic female demonstrating shoulder stretch with motivating voice.",
+      "description": "Upper body mobility stretch."
+    },
+    {
+      "name": "Seated Forward Fold",
+      "category": "Mobilità",
+      "prompt_male": "Realistic male performing seated forward fold hamstring stretch slowly with controlled breathing.",
+      "prompt_female": "Athletic female avatar bending forward for seated forward fold with encouraging voice.",
+      "description": "Hamstring and lower back stretch."
+    },
+    {
+      "name": "Standing Quad Stretch",
+      "category": "Mobilità",
+      "prompt_male": "Muscular male balancing on one leg holding quad stretch with steady breath.",
+      "prompt_female": "Athletic female performing standing quad stretch with fluid voice and balance focus.",
+      "description": "Front thigh stretch."
+    },
+    {
+      "name": "Cobra Pose",
+      "category": "Mobilità",
+      "prompt_male": "Realistic male performing cobra yoga pose on mat, slow upward push with breathing control.",
+      "prompt_female": "Athletic female demonstrating cobra pose with calm and motivating vocal tone.",
+      "description": "Back extension and spine stretch."
+    },
+    {
+      "name": "Side Lunges Stretch",
+      "category": "Mobilità",
+      "prompt_male": "Muscular male avatar performing deep side lunges with steady breath and focus.",
+      "prompt_female": "Athletic female doing side lunges with fluid motions and motivating voice.",
+      "description": "Inner thigh stretch."
+    },
+    {
+      "name": "Neck Stretch",
+      "category": "Mobilità",
+      "prompt_male": "Realistic male performing gentle neck stretches turning head slowly with normal breath.",
+      "prompt_female": "Athletic female avatar doing neck stretches with soft motivating tone.",
+      "description": "Neck muscle relaxation."
+    },
+    {
+      "name": "Single Leg Balance",
+      "category": "Equilibrio",
+      "prompt_male": "Muscular male balancing on single leg with relaxed arms, focused and steady breathing.",
+      "prompt_female": "Athletic female avatar balancing on one leg with fluid motion and encouraging voice.",
+      "description": "Balance and stability exercise."
+    },
+    {
+      "name": "Heel-to-Toe Walk",
+      "category": "Equilibrio",
+      "prompt_male": "Realistic male avatar walking heel-to-toe in straight line with focus and stable breathing.",
+      "prompt_female": "Athletic female performing heel-to-toe walk with motivating voice and balance focus.",
+      "description": "Balance and coordination exercise."
+    },
+    {
+      "name": "Tree Pose",
+      "category": "Equilibrio",
+      "prompt_male": "Muscular male performing yoga Tree Pose balancing foot on inner thigh with steady breath.",
+      "prompt_female": "Athletic female demonstrating Tree Pose yoga balance with calm and engaging voice.",
+      "description": "Yoga balance posture."
+    },
+    {
+      "name": "Side leg raises (equilibrio)",
+      "category": "Equilibrio",
+      "prompt_male": "Muscular male lifting side leg slowly focusing on control and balance.",
+      "prompt_female": "Athletic female avatar performing slow side leg raises with fluid motion and motivating voice.",
+      "description": "Leg raise for stability and balance."
+    },
+    {
+      "name": "Standing knee raises",
+      "category": "Equilibrio",
+      "prompt_male": "Realistic male lifting knees alternately with focus on balance and controlled breathing.",
+      "prompt_female": "Athletic female performing standing knee raises with fluid motion and motivating voice.",
+      "description": "Balance and core engagement."
+    }
+  ],
+  "avatars": {
+    "male": {
+      "style": "Realistic, muscular, motivating, with subtle signs of effort and breath control.",
+      "voice": "Deep, fluid, engaging, simulating effort during exercise."
+    },
+    "female": {
+      "style": "Realistic, athletic, sensual yet motivating, with signs of exertion and breath simulation.",
+      "voice": "Smooth, sensual, energetic, with realistic exertion sounds."
+    }
+  },
+  "languages": ["it", "en", "es", "fr", "de", "zh"]
+}
