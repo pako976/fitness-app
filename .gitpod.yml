@@ -4,7 +4,7 @@ image:
 tasks:
   - name: Setup Flutter e backend
     init: |
-      git config --global user.name "Pako976"
+      git config --global user.name "pako976"
       git config --global user.email "salvatorevitale976@gmail.com"
       echo "Ambiente Gitpod pronto!"
     command: |
